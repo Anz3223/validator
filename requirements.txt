@@ -1,0 +1,4 @@
+Flask==3.0.3
+gunicorn==22.0.0
+charset-normalizer==3.3.2
+Werkzeug==3.0.3
